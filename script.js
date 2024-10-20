@@ -1,7 +1,7 @@
 // script.js
 
 // Laad de JSON-data
-fetch('../data/christian_thinkers.json')
+fetch('christian_thinkers.json')
     .then(response => response.json())
     .then(data => {
         console.log(data); // Log de data om te controleren wat er wordt geladen
