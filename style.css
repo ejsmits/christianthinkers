@@ -1,0 +1,231 @@
+/* style.css */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Modernere lettertypen */
+    background-color: #f5f5f5; /* Rustige achtergrondkleur */
+    margin: 0 0 10vh 0;
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50; /* Donkerdere kleur voor de titel */
+    margin-bottom: 20px; /* Ruimte onder de titel */
+}
+
+/* Hero Sectie */
+.hero {
+    position: relative;
+    background-image: url('https://images.unsplash.com/photo-1487089427585-85563b1049f3?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); /* Voeg hier je achtergrondafbeelding toe */
+    background-size: cover; /* Zorg dat de afbeelding de volledige sectie bedekt */
+    background-position: center; /* Centreer de afbeelding */
+    height: 60vh; /* Hoogte van de hero-sectie */
+    display: flex;
+    align-items: center; /* Center de inhoud verticaal */
+    justify-content: center; /* Center de inhoud horizontaal */
+    text-align: center; /* Centreer de tekst */
+    color: white; /* Tekstkleur */
+    margin: 0 0 20vh 0; 
+    padding: 0; /* Verwijder padding */
+    clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%); /* Schuine onderkant */
+}
+
+.hero-overlay {
+    position: absolute; /* Overlay is absoluut gepositioneerd binnen de hero */
+    top: 0; /* Start bij de bovenkant */
+    left: 0; /* Start bij de linkerkant */
+    right: 0; /* Breid uit naar de rechterkant */
+    bottom: 0; /* Breid uit naar de onderkant */
+    background-color: rgba(255, 255, 255, 0.5); /* Semi-transparante witte kleur */
+    z-index: 1; /* Zorg ervoor dat de overlay boven de achtergrondafbeelding komt */
+}
+
+.hero-content {
+    position: relative; /* Maak de inhoud relatief zodat deze boven de overlay wordt weergegeven */
+    z-index: 2; /* Zorg ervoor dat de inhoud boven de overlay komt */
+    padding: 20px; /* Ruimte rondom de inhoud */
+    border-radius: 8px; /* Ronde hoeken voor de overlay */
+}
+
+.hero h1 {
+    font-size: 2.5em; /* Grotere titel */
+    margin: 20 px; /* Geen marge voor de titel */
+    color: #34495e;
+}
+
+.hero p {
+    font-size: 1.8em; /* Grotere tekst voor de beschrijving */
+    margin: 30px 0; /* Ruimte boven en onder de tekst */
+    color: #34495e;
+    font-weight: 500;
+}
+
+.hero-button {
+    background-color: #ff9800; /* Knopkleur */
+    color: white; /* Witte tekstkleur voor de knop */
+    padding: 10px 20px; /* Ruimte rondom de knop */
+    border: none; /* Geen rand */
+    border-radius: 4px; /* Ronde hoeken voor de knop */
+    text-decoration: none; /* Geen onderstreping */
+    font-size: 1em; /* Groter lettertype voor de knop */
+    transition: background-color 0.3s; /* Vloeiende overgang voor hover-effect */
+}
+
+.hero-button:hover {
+    background-color: #e68900; /* Donkerdere kleur bij hover */
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Responsieve kolommen */
+    gap: 40px; /* Ruimte tussen de kaarten */
+    margin: 0 auto; /* Center de grid-container */
+    max-width: 1200px; /* Maximale breedte van de grid */
+}
+
+.card {
+    perspective: 1000px; /* Voor flip-animatie */
+}
+
+.card-inner {
+    position: relative;
+    width: 100%;
+    height: 500px; /* Vaste hoogte voor de kaart */
+    transform-style: preserve-3d;
+    transition: transform 0.6s;
+}
+
+.card:hover .card-inner {
+    transform: rotateY(180deg); /* Flip-animatie */
+}
+
+.card-front, .card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden; /* Verberg de achterkant wanneer deze niet zichtbaar is */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.0em;
+    color: #34495e; /* Donkerdere tekstkleur */
+    border-radius: 0px; /* Iets grotere ronde hoeken */
+    background-color: #ffffff; /* Achtergrondkleur van de kaart */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Zachte schaduw voor diepte */
+    overflow: hidden; /* Zorg ervoor dat de inhoud niet buiten de kaart valt */
+    transition: box-shadow 0.3s; /* Voor een lichte schaduwverandering */
+}
+
+.card-front {
+    background-color: white; /* Voorzijde achtergrondkleur */
+}
+
+
+.card-back {
+    background-color: #ffe0b2; /* Achterzijde achtergrondkleur */
+    transform: rotateY(180deg); /* Draai de achterkant 180 graden */
+    display: flex;
+    flex-direction: column; /* Zorg ervoor dat de inhoud verticaal gestapeld wordt */
+    align-items: unset; /* Center de inhoud horizontaal */
+    justify-content: center; /* Center de inhoud verticaal */
+    padding: 15px; /* Ruimte rondom de inhoud */
+    height: 100%; /* Zorg ervoor dat de hoogte gelijk blijft */
+    box-sizing: border-box; /* Inclusief padding in de totale hoogte */
+}
+
+/* Schaduw effect bij hover */
+.card:hover .card-front,
+.card:hover .card-back {
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15); /* Versterkte schaduw bij hover */
+}
+
+.card-image {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+    opacity: 1;
+}
+
+/* Overlay voor de naam van de persoon */
+.card-overlay {
+    position: absolute;
+    bottom: 25%;
+    left: 0%;
+    width: 70%;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.5);
+    color: #333;
+    text-align: left;
+    text-indent: 10%;
+    font-size: 1.1em;
+    font-weight: bold;
+    z-index: 2;
+}
+
+/* Styling voor wanneer er geen foto is */
+.card-front.no-photo {
+    background-color: #f0f0f0;
+    color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    height: 100%;
+    overflow: hidden;
+}
+
+
+/* Houd de naam altijd zichtbaar bovenop */
+.card-inner .card-overlay {
+    z-index: 10;
+}
+
+.bounce-button {
+    background-color: #e68900; /* Achtergrondkleur (pas dit aan naar wens) */
+    color: white; /* Tekstkleur */
+    border: none; /* Geen rand */
+    border-radius: 50%; /* Maak de knop rond */
+    width: 60px; /* Breedte van de knop */
+    height: 60px; /* Hoogte van de knop */
+    font-size: 24px; /* Grootte van de pijl */
+    cursor: pointer; /* Wijzig de cursor naar pointer */
+    justify-content: center; /* Centreer de inhoud horizontaal */
+    align-items: last baseline; /* Centreer de inhoud verticaal */
+    outline: none; /* Geen outline */
+    animation: bounce 1s; /* Voeg animatie toe */
+}
+
+.arrow {
+    display: inline-block; /* Blok voor de animatie */
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0); /* Beginpositie */
+    }
+    40% {
+        transform: translateY(-10px); /* Hoogste punt van de bounce */
+    }
+    60% {
+        transform: translateY(-5px); /* Tussenpositie */
+    }
+}
+
+.search-button {
+    background-color: #e68900; /* Blauwe achtergrondkleur */
+    color: white; /* Witte tekstkleur */
+    width: 75%;
+    border: none; /* Geen rand */
+    padding: 10px 15px; /* Opvulling */
+    border-radius: 2px; /* Ronde hoeken */
+    cursor: pointer; /* Cursor verandert naar pointer bij hover */
+    margin-top: 10px; /* Ruimte boven de knop */
+    transition: background-color 0.3s; /* Vloeiende overgang voor hover effect */
+    align-self: flex-end;
+}
+
+.search-button:hover {
+    background-color: #ff9800; /* Donkerdere blauwe kleur bij hover */
+}

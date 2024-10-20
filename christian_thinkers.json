@@ -1,0 +1,349 @@
+[
+    {
+        "name": "N.T. Wright",
+        "birth_year": 1948,
+        "organization": "Oxford organization (voorheen organization of St Andrews)",
+        "specialization": "Bijbelwetenschap, vooral Paulus' theologie en de historische Jezus",
+        "known_for": [
+            "Surprised by Hope",
+            "Paul and the Faithfulness of God"
+        ],
+        "notable_book": "Simply Jesus",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/NTWright071220.jpg"
+    },
+    {
+        "name": "Timothy Keller",
+        "birth_year": 1950,
+        "death_year": 2023,
+        "specialization": "Evangelisatie, stedelijke kerkplanting",
+        "known_for": [
+            "The Reason for God"
+        ],
+        "notable_book": "The Prodigal God",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Timothy_Keller.jpg"
+    },
+    {
+        "name": "John Piper",
+        "birth_year": 1946,
+        "specialization": "Reformed theology, de soevereiniteit van God en vreugde in Christus",
+        "known_for": [
+            "Desiring God"
+        ],
+        "notable_book": "Don't Waste Your Life",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Photo_of_John_Piper%2C_Oct_2010_%28cropped%29.jpg/800px-Photo_of_John_Piper%2C_Oct_2010_%28cropped%29.jpg"
+    },
+    {
+        "name": "Alister McGrath",
+        "birth_year": 1953,
+        "organization": "Oxford organization",
+        "specialization": "Verhouding tussen geloof en wetenschap",
+        "known_for": [
+            "The Dawkins Delusion"
+        ],
+        "notable_book": "Christian Theology: An Introduction",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/4/40/Alister_McGrath.jpg"
+    },
+    {
+        "name": "Stanley Hauerwas",
+        "birth_year": 1940,
+        "organization": "Duke Divinity School (emeritus)",
+        "specialization": "Christelijke ethiek, pacifisme",
+        "known_for": [
+            "The Peaceable Kingdom"
+        ],
+        "notable_book": "A Community of Character",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/0/02/Stanley_Hauerwas.jpg"
+    },
+    {
+        "name": "Rowan Williams",
+        "birth_year": 1950,
+        "specialization": "Theologie, mystiek, oosters en westers christendom",
+        "known_for": [
+            "Tokens of Trust"
+        ],
+        "notable_book": "The Wound of Knowledge",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Rowan_Williams_-_by_Brian.jpg/800px-Rowan_Williams_-_by_Brian.jpg"
+    },
+    {
+        "name": "David Bentley Hart",
+        "birth_year": 1965,
+        "specialization": "Orthodoxe theologie, metafysica",
+        "known_for": [
+            "The Beauty of the Infinite"
+        ],
+        "notable_book": "Atheist Delusions",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/David_Bentley_Hart_and_Roland.jpg/1024px-David_Bentley_Hart_and_Roland.jpg"
+    },
+    {
+        "name": "Alvin Plantinga",
+        "birth_year": 1932,
+        "specialization": "Filosofie van religie, apologetiek",
+        "known_for": [
+            "Warranted Christian Belief"
+        ],
+        "notable_book": "God, Freedom, and Evil",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/AlvinPlantinga.JPG/1024px-AlvinPlantinga.JPG"
+    },
+    {
+        "name": "Miroslav Volf",
+        "birth_year": 1956,
+        "organization": "Yale Divinity School",
+        "specialization": "Systematische theologie, verzoening",
+        "known_for": [
+            "Exclusion and Embrace"
+        ],
+        "notable_book": "Allah: A Christian Response",
+        "photo": "https://nexus-institute.s3.eu-central-1.amazonaws.com/wp-content/uploads/20220901101017/Miroslav-Volf.jpg"
+    },
+    {
+        "name": "James K.A. Smith",
+        "birth_year": 1970,
+        "organization": "Calvin organization",
+        "specialization": "Filosofie, liturgische theologie",
+        "known_for": [
+            "Desiring the Kingdom"
+        ],
+        "notable_book": "You Are What You Love",
+        "photo": "https://thehabit.co/wp-content/uploads/2020/05/jameskasmith.png"
+    },
+    {
+        "name": "Willie James Jennings",
+        "birth_year": 1961,
+        "organization": "Yale Divinity School",
+        "specialization": "Raciale gerechtigheid, theologie van plaats",
+        "known_for": [
+            "The Christian Imagination"
+        ],
+        "notable_book": "After Whiteness: An Education in Belonging",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Willie-large-scaled-e1680031180403.jpg/800px-Willie-large-scaled-e1680031180403.jpg"
+    },
+    {
+        "name": "Sarah Coakley",
+        "birth_year": 1951,
+        "organization": "Voorheen Universiteit van Cambridge",
+        "specialization": "Systematische theologie, gender, mystiek",
+        "known_for": [
+            "God, Sexuality, and the Self"
+        ],
+        "notable_book": "The Spirit and the Politics of the Body",
+        "photo": "https://regentinterface.com/wp-content/uploads/2018/08/Sarah-Coakley-PS800.png"
+    },
+    {
+        "name": "Kevin J. Vanhoozer",
+        "birth_year": 1957,
+        "organization": "Trinity Evangelical Divinity School",
+        "specialization": "Hermeneutiek, bijbelse interpretatie",
+        "known_for": [
+            "The Drama of Doctrine"
+        ],
+        "notable_book": "Is There a Meaning in This Text?",
+        "photo": "https://static.wixstatic.com/media/e06157_a8b1c0cb812941d3a197f8cdeb040d90~mv2_d_2592_3888_s_4_2.jpg/v1/crop/x_0,y_364,w_2592,h_3161/fill/w_351,h_428,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/vanhoozer%20portrait.jpg"
+    },
+    {
+        "name": "Luke Timothy Johnson",
+        "birth_year": 1943,
+        "organization": "Candler School of Theology, Emory organization",
+        "specialization": "Nieuwe Testament studies",
+        "known_for": [
+            "The Real Jesus"
+        ],
+        "notable_book": "The Writings of the New Testament",
+        "photo": "https://www.christiancentury.org/sites/default/files/styles/article_page_vertical/public/images/detail/111721luke-timothy-johnson.jpg?itok=F_QI2vvK"
+    },
+    {
+        "name": "Katherine Sonderegger",
+        "birth_year": 1956,
+        "organization": "Virginia Theological Seminary",
+        "specialization": "Systematische theologie",
+        "known_for": [
+            "Systematic Theology: The Doctrine of God"
+        ],
+        "notable_book": "The Doctrine of the Trinity",
+        "photo": "https://thelaymenslounge.com/wp-content/uploads/2021/05/katherinesonderegger.jpg"
+    },
+    {
+        "name": "John Swinton",
+        "birth_year": 1957,
+        "organization": "Universiteit van Aberdeen",
+        "specialization": "Praktische theologie, geestelijke gezondheidszorg",
+        "known_for": [
+            "Dementia: Living in the Memories of God"
+        ],
+        "notable_book": "Finding Jesus in the Hospital",
+        "photo": "https://divinity.duke.edu/sites/default/files/styles/media_image_book_or_person/public/images/media-images/John%20Swinton.jpeg?itok=bxFmGZW0"
+    },
+    {
+        "name": "Oliver O'Donovan",
+        "birth_year": 1945,
+        "organization": "Voorheen Universiteit van Edinburgh",
+        "specialization": "Christelijke ethiek, politieke theologie",
+        "known_for": [
+            "The Desire of the Nations"
+        ],
+        "notable_book": "The Case for Christianity",
+        "photo": "https://i0.wp.com/davenantinstitute.org/wp-content/uploads/2023/10/oliver-o-donovan-e1697550895796.jpg?resize=300%2C300&ssl=1"
+    },
+    {
+        "name": "Gerben Heitink",
+        "birth_year": 1940,
+        "organization": "Vrije Universiteit Amsterdam (emeritus)",
+        "specialization": "Praktische theologie",
+        "known_for": "Werk rond secularisatie en de rol van de kerk in de moderne samenleving",
+        "notable_book": "Theologie in Context",
+        "photo": "https://images.pubble.cloud/worker/webp/default/840/407106/9ed0159c/content/2021/10/cdaf8461-17ec-4301-af72-b7a40b2407a5"
+    },
+    {
+        "name": "Rinse Reeling Brouwer",
+        "birth_year": 1950,
+        "organization": "Protestantse Theologische Universiteit (emeritus)",
+        "specialization": "Systematische theologie",
+        "known_for": "Werk over Karl Barth en reformatorische theologie",
+        "notable_book": "Karl Barth en de actualiteit van de theologie",
+        "photo": "https://www.pthu.nl/.uc/i1475a4180103d45c00006628f4013fe9c06b1bce8b2d0701c3e600e60080/rinse-reeling-brouwer-2.jpg"
+    },
+    {
+        "name": "Stefan Paas",
+        "birth_year": 1969,
+        "organization": [
+            "Vrije Universiteit Amsterdam",
+            "Theologische Universiteit Kampen-Utrecht"
+        ],
+        "specialization": "Missiologie en kerkplanting",
+        "known_for": [
+            "Vreemdelingen en Priesters"
+        ],
+        "notable_book": "Kerk in de wereld: Missie en context",
+        "photo": "https://www.nationalesynode.nl/wp-content/uploads/2019/05/stefan_paas_nationale_synode.jpg"
+    },
+    {
+        "name": "Eddy van der Borght",
+        "birth_year": 1961,
+        "organization": "Vrije Universiteit Amsterdam",
+        "specialization": "Interreligieuze dialoog, theologie van diversiteit",
+        "known_for": "Werk over kerk en multiculturaliteit",
+        "notable_book": "Religieus leiderschap in post-christelijk Nederland",
+        "photo": "https://www.auc.nl/binaries/_ht_1702635746945/700x0-webp/content/gallery/projectsites/amsterdam-university-college/about-auc/faculty/humanities/borght-eddy-van-de.jpg"
+    },
+    {
+        "name": "Arnold Huijgen",
+        "birth_year": 1978,
+        "organization": "Theologische Universiteit Apeldoorn",
+        "specialization": "Dogmatiek en reformatorische theologie",
+        "known_for": "Werk over Johannes Calvijn en Augustinus",
+        "notable_book": "De Schepping als verhaal",
+        "photo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoKixNIIRurcw7gVuPoguLmBG5p_GLsHKCYMhLOyv-23Ox61H4"
+    },
+    {
+        "name": "Henk van den Belt",
+        "birth_year": 1971,
+        "organization": "Theologische Universiteit Kampen-Utrecht",
+        "specialization": "Systematische theologie, reformatorische theologie",
+        "known_for": "Geestkracht",
+        "notable_book": "Geest, Spraak en Woord",
+        "photo": "https://jijdaar.nl/wp-content/uploads/2023/01/ds-H-van-den-Belt-980x654.jpg"
+    },
+    {
+        "name": "Marcel Barnard",
+        "birth_year": 1966,
+        "organization": "Theologische Universiteit Kampen",
+        "specialization": "Praktische theologie, religie en samenleving",
+        "known_for": "Onderzoek naar de rol van religie in de moderne samenleving en de gevolgen voor de kerk.",
+        "notable_book": "God in bits en bytes",
+        "photo": "https://www.pthu.nl/.uc/i66f3c22c01033a140000092ff401f1ae8adfec01c8010701c3e600e60080/0000-marcel.jpg"
+    },
+    {
+        "name": "Billy Graham",
+        "birth_year": 1918,
+        "death_year": 2018,
+        "organization": "Billy Graham Evangelistic Association",
+        "specialization": "Evangelisatie, massabeweging",
+        "known_for": "Evangelist die duizenden mensen tot geloof leidde, vaak in massale bijeenkomsten.",
+        "notable_book": "Just As I Am",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Billy_Graham_bw_photo%2C_April_11%2C_1966.jpg/800px-Billy_Graham_bw_photo%2C_April_11%2C_1966.jpg"
+    },
+    {
+        "name": "Rick Warren",
+        "birth_year": 1954,
+        "organization": "Saddleback Church",
+        "specialization": "Gemeente groei, discipelschap",
+        "known_for": "Doelgericht leven en zijn bestseller 'The Purpose Driven Life'.",
+        "notable_book": "The Purpose Driven Life",
+        "photo": "https://media.cnn.com/api/v1/images/stellar/prod/120123071139-rick-warren-before.jpg?q=x_0,y_156,h_822,w_1463,c_crop/h_653,w_1160/f_webp"
+    },
+    {
+        "name": "Joel Osteen",
+        "birth_year": 1963,
+        "organization": "Lakewood Church (VS)",
+        "specialization": "Positieve boodschap, succes, hoop",
+        "notable_book": "Your Best Life Now",
+        "photo": "https://cdn.uncf.org/wp-content/uploads/Joel_Osteen-400.png"
+    },
+    {
+        "name": "Robert Morris",
+        "birth_year": 1961,
+        "organization": "Gateway Church (VS)",
+        "specialization": "Bijbelonderwijs, aanbidding",
+        "notable_book": "The Blessed Life",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Robert_Morris%2C_founder_of_Gateway_Church.png"
+    },
+    {
+        "name": "T.D. Jakes",
+        "birth_year": 1957,
+        "organization": "The Potter's House (VS)",
+        "specialization": "Geestelijk leven, empowerment",
+        "notable_book": "Soar!",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mr._T.D._Jakes.jpg/800px-Mr._T.D._Jakes.jpg"
+    },
+    {
+        "name": "Bill Hybels",
+        "birth_year": 1951,
+        "death_year": 2018,
+        "organization": "Willow Creek Community Church (VS)",
+        "specialization": "Gemeenteopbouw, leiderschap",
+        "notable_book": "Courageous Leadership",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bill_hybels_photo.jpg"
+    },
+    {
+        "name": "David Yonggi Cho",
+        "birth_year": 1936,
+        "organization": "Yoido Full Gospel Church (Zuid-Korea)",
+        "specialization": "Gebed, geestelijke groei",
+        "notable_book": "The Prayer That Brings Revival",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/2/21/Paul_yonggi_cho.jpg"
+    },
+    {
+        "name": "Nicky Gumbel",
+        "birth_year": 1955,
+        "organization": "Alpha Course (Verenigd Koninkrijk)",
+        "specialization": "Evangelisatie, cursussen voor nieuwkomers",
+        "notable_book": "Questions of Life",
+        "photo": "https://canonjjohn.com/wp-content/uploads/2023/01/Nicky-Gumbel-FTC-Blog-Post-Image.jpg"
+    },
+    {
+        "name": "Wang Yi",
+        "birth_year": 1979,
+        "organization": "Early Rain Covenant Church (China)",
+        "specialization": "Christelijke ethiek, mensenrechten",
+        "notable_book": "Faithful Disobedience",
+        "photo": "https://www.sdok.nl/system/files/sas-pastor-wang.jpg.webp?c=1663232139"
+    },
+    {
+        "name": "Priscilla Shirer",
+        "birth_year": 1974,
+        "organization": "Going Beyond Ministries",
+        "specialization": "Vrouwen, bijbelstudies",
+        "notable_book": "Fervent",
+        "photo": "https://sestra.nl/wp-content/uploads/2019/01/profielfoto.jpg"
+    },
+    {
+        "name": "Tom de Wal",
+        "birth_year": 1987,
+        "organization": "Frontrunners Ministries",
+        "specialization": "Evangelisatie, geloof en financiële zegeningen",
+        "known_for": [
+            "Boeken zoals '21 Dagen om te Overwinnen' en 'De Wet van het Zaaien en Oogsten'"
+        ],
+        "notable_book": "De Wet van het Zaaien en Oogsten",
+        "photo": "https://frontrunners.com/_next/image?url=https%3A%2F%2Fstrapi.frontrunners.com%2Fuploads%2Fonderwijs_spreken_b5654a9cc7.jpg&w=1200&q=75"
+    }
+]
